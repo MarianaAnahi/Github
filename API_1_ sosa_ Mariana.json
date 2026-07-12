@@ -1,0 +1,16 @@
+
+{ 
+    "orderID":1110,
+    "Adress": "Maipu 656",
+    "Status": "Ready",
+    "Articles": [
+    {
+        "name": "Arroz",
+        "Price": 3000,
+        "Quantity": 3,
+        "Dangerous": false
+    
+    }
+    ]
+
+ }
